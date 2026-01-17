@@ -10,4 +10,5 @@
         n=n/10;
      }
      printf("m is: %d",m);
+   printf(zadachata e reshena);
  }
